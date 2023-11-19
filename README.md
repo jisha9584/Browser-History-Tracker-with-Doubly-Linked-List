@@ -34,5 +34,7 @@ Python 3.x
 **Ideal for**
 <br>
 Educational purposes for understanding DLLs in Python.
+<br>
 Web browser simulation projects.
+<br>
 Developers looking for custom implementations of history tracking in applications.
